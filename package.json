@@ -1,0 +1,46 @@
+{
+  "name": "lfz-code",
+  "displayName": "LFZ Code",
+  "description": "LearningFuze Visual Studio Code Extension Pack",
+  "version": "0.0.1",
+  "icon": "images/lfz.png",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "publisher": "thebearingedge",
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "AdamCaviness.theme-monokai-dark-soda",
+    "bierner.github-markdown-preview",
+    "bierner.markdown-checkbox",
+    "bierner.markdown-emoji",
+    "bierner.markdown-preview-github-styles",
+    "bierner.markdown-yaml-preamble",
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "EditorConfig.EditorConfig",
+    "ritwickdey.LiveServer",
+    "techer.open-in-browser",
+    "vscode-icons-team.vscode-icons",
+    "waderyan.gitblame",
+    "mkaufman.HTMLHint",
+    "ckolkman.vscode-postgres"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thebearingedge/vscode-lfz"
+  },
+  "keywords": [],
+  "author": "Tim Davis <contact@timdav.is>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thebearingedge/vscode-lfz/issues"
+  },
+  "homepage": "https://github.com/thebearingedge/vscode-lfz#readme"
+}
