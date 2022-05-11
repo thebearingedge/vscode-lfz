@@ -2,7 +2,7 @@
   "name": "lfz-code",
   "displayName": "LFZ Code",
   "description": "LearningFuze Visual Studio Code Extension Pack",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "icon": "images/lfz.png",
   "engines": {
     "vscode": "^1.22.0"

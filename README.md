@@ -9,6 +9,7 @@ LearningFuze Visual Studio Code Extension Pack
 - bierner.markdown-preview-github-styles
 - bierner.markdown-yaml-preamble
 - dbaeumer.vscode-eslint
+- doublefint.pgsql
 - stylelint.vscode-stylelint
 - EditorConfig.EditorConfig
 - ritwickdey.LiveServer
