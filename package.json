@@ -2,7 +2,7 @@
   "name": "lfz-code",
   "displayName": "LFZ Code",
   "description": "LearningFuze Visual Studio Code Extension Pack",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "icon": "images/lfz.png",
   "engines": {
     "vscode": "^1.22.0"
@@ -19,6 +19,7 @@
     "bierner.markdown-preview-github-styles",
     "bierner.markdown-yaml-preamble",
     "dbaeumer.vscode-eslint",
+    "doublefint.pgsql",
     "stylelint.vscode-stylelint",
     "EditorConfig.EditorConfig",
     "ritwickdey.LiveServer",
