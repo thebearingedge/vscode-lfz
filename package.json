@@ -2,10 +2,10 @@
   "name": "lfz-code",
   "displayName": "LFZ Code",
   "description": "LearningFuze Visual Studio Code Extension Pack",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "icon": "images/lfz.png",
   "engines": {
-    "vscode": "^1.22.0"
+    "vscode": "^1.35.0"
   },
   "publisher": "thebearingedge",
   "categories": [
@@ -22,7 +22,7 @@
     "doublefint.pgsql",
     "stylelint.vscode-stylelint",
     "EditorConfig.EditorConfig",
-    "yandeu.five-server",
+    "thebearingedge.livereload-server",
     "vscode-icons-team.vscode-icons",
     "eamodio.gitlens",
     "yusukehirao.vscode-markuplint",

@@ -12,7 +12,7 @@ LearningFuze Visual Studio Code Extension Pack
 - doublefint.pgsql
 - stylelint.vscode-stylelint
 - EditorConfig.EditorConfig
-- yandeu.five-server
+- thebearingedge.livereload-server
 - vscode-icons-team.vscode-icons
 - eamodio.gitlens
 - yusukehirao.vscode-markuplint
